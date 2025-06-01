@@ -1,4 +1,4 @@
-#Hello there! 👋 I'm Mardiana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+#Hello there! 👋 I'm Mardiana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Coding+With+Coffee;Debugging+Like+a+Pro;Bugs+Are+Just+Features;Pushing+Code+Not+Panic" alt="Typing animation" />
