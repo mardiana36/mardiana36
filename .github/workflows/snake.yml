@@ -1,57 +1,34 @@
-name: 🐍 GitHub Contribution Snake Generator
+name: "🔥 Cosmic Snake Generator"
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual triggering
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: 🛠️ Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      - name: 🎨 Generate Snake Visualizations
+      - uses: actions/checkout@v4
+        
+      - name: "🌀 Generate Premium Snakes"
         uses: Platane/snk@v3
         with:
-          github_user_name: mardiana36
-          theme: nordic
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-standard.svg
-            dist/snake-dark.svg?palette=github-dark&snake_color=#5865F2
-            dist/snake-animated.gif?color_snake=#FF79C6&color_dots=#BD93F9,#6272A4,#50FA7B,#F1FA8C
+            dist/cosmic-snake.svg?theme=radical&color_snake=00DDFF&color_dots=FF00AA,00FFDD,AA00FF
+            dist/neon-snake.gif?animation=wave&color_snake=00FF88&color_dots=FF0099&background=0D1117
+            dist/glow-snake-dark.svg?palette=github-dark&glow_effect=true&blur=2
           svg_filters: |
-            <feGaussianBlur stdDeviation="1" />
-            <feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.95 0" />
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            <feGaussianBlur stdDeviation="0.5" />
+            <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.2 -0.5" />
 
-      - name: 🚀 Deploy to GitHub Pages
+      - name: "⚡ Deploy to GitHub Pages"
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: gh-pages  # Better for public access
-          user_name: 'GitHub Action'
-          user_email: 'action@github.com'
-          commit_message: "✨ Update snake visualization - $(date +'%Y-%m-%d %H:%M')"
-          full_commit_message: "Automated snake visualization update\n\nGenerated on $(date +'%Y-%m-%d %H:%M:%S') with ❤️ by GitHub Actions"
-          enable_jekyll: false
-
-      - name: 📊 Post Deployment Status
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.repos.createCommitComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              commit_sha: context.sha,
-              body: "🐍 Snake visualization successfully updated! View it at:\n\n• [Standard Version](https://mardiana36.github.io/mardiana36/dist/snake-standard.svg)\n• [Dark Version](https://mardiana36.github.io/mardiana36/dist/snake-dark.svg)\n• [Animated GIF](https://mardiana36.github.io/mardiana36/dist/snake-animated.gif)"
-            })
+          publish_branch: gh-pages
+          commit_message: "🌌 Cosmic Snake Update - $(date +'%m/%d %H:%M')"
