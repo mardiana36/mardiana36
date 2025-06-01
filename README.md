@@ -81,5 +81,5 @@
 ![Glow Snake Dark](https://mardiana36.github.io/mardiana36/glow-snake-dark.svg)
 
 </div>
-<p align="center">Made with ❤️ Power by</p> [Platane/snk](https://github.com/Platane/snk) 
+<p align="center">Made with ❤️ Power by <a href="https://github.com/Platane/snk">Platane-snk</a></p>
 
