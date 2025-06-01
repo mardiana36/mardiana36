@@ -6,7 +6,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="image_codeing"/>
 </div>
 
-## 🚀 Tech Stack & Skills
+<br><br>
+
+<h2 align="center">🚀 Tech Stack & Skills</h2>
 <div align="center">
   
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&animation=pulse)
@@ -27,6 +29,8 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
+<br><br>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -42,6 +46,8 @@
   </a>
 </div>
 
+<br><br>
+
 <h2 align="center">🌟 Featured Projects</h2>
 <div align="center">
   <a href="https://github.com/mardiana36/project-1">
@@ -52,6 +58,8 @@
   </a>
 </div>
 
+<br><br>
+
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
   
@@ -60,6 +68,8 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=spin&labelColor=0d1117)](mailto:kelikimardiana@gmail.com)
   
 </div>
+
+<br><br>
 
 <h2 align="center">✨ Visitor Counter</h2>
 <div align="center">
@@ -71,5 +81,5 @@
 ![Glow Snake Dark](https://mardiana36.github.io/mardiana36/glow-snake-dark.svg)
 
 </div>
-Made with ❤️ by [Platane/snk](https://github.com/Platane/snk) 
+<p align="center">Made with ❤️ by [Platane/snk](https://github.com/Platane/snk)</p> 
 
