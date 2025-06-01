@@ -72,6 +72,6 @@
 ## 🎵 Now Playing on Spotify
 <div align="center">
   
-  [![Spotify](https://open.spotify.com/user/31exwojqqcyn4r4uhc6cw3cslb5a?si=69592d6afd274755&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00c4ff&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+  [![Spotify](https://open.spotify.com/user/31exwojqqcyn4r4uhc6cw3cslb5a?si=69592d6afd274755&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00c4ff&bar_color_cover=true)](https://open.spotify.com/user/31exwojqqcyn4r4uhc6cw3cslb5a?si=69592d6afd274755)
   
 </div>
