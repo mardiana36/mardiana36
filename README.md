@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/mardiana36/mardiana36/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/mardiana36/main/assets/github-contribution-grid-snake.svg)
   
 </div>
 
