@@ -65,11 +65,7 @@
   <img src="https://profile-counter.glitch.me/mardiana36/count.svg" />
 </div>
   
-# 🐍 Cosmic Snake Activity
 
-Hi! This is a cool animation showing my contribution activity, generated daily using GitHub Actions!
-
-### 🌑 Glow Snake Dark
 ![Glow Snake Dark](https://mardiana36.github.io/mardiana36/glow-snake-dark.svg)
 
 > Made with ❤️ by [Platane/snk](https://github.com/Platane/snk)
