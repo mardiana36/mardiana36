@@ -64,9 +64,10 @@
   <img src="https://profile-counter.glitch.me/mardiana36/count.svg" />
 </div>
   
-
+<div align="center">
+  
 ![Glow Snake Dark](https://mardiana36.github.io/mardiana36/glow-snake-dark.svg)
 
-> Made with ❤️ by [Platane/snk](https://github.com/Platane/snk) 
+</div>
+Made with ❤️ by [Platane/snk](https://github.com/Platane/snk) 
 
-Buat semua judul textnya ketengah 
