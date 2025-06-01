@@ -65,7 +65,7 @@
 
 <div align="center">
   
- ![Snake animation](https://mardiana36.github.io/assets/github-snake.svg)
+ ![Snake](https://mardiana36.github.io/assets/github-snake.svg)
   
 </div>
 
