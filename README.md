@@ -65,7 +65,7 @@
 
 <div align="center">
   
- ![Snake](https://mardiana36.github.io/assets/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/mardiana36/main/assets/github-snake.svg)
   
 </div>
 
