@@ -70,5 +70,5 @@
 </div>
 
 <div align="center" style="margin-top:20px;">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00c4ff&bar_color_cover=true" alt="Spotify Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31exwojqqcyn4r4uhc6cw3cslb5a?si=1042fce4b984462a&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00c4ff&bar_color_cover=true" alt="Spotify Playing" />
 </div>
