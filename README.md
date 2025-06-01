@@ -65,7 +65,7 @@
 
 <div align="center">
   
-![Snake](https://raw.githubusercontent.com/mardiana36/main/assets/github-snake.svg)
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="visibility:visible;max-width:100%;">
   
 </div>
 
