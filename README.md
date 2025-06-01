@@ -53,10 +53,10 @@
 
 <h2 align="center">🌟 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/mardiana36/project-1">
+  <a href="https://github.com/mardiana36/FreeFlex.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardiana36&repo=FreeFlex.github.io&theme=radical&bg_color=0d1117&title_color=00C4FF" />
   </a>
-  <a href="https://github.com/mardiana36/project-2">
+  <a href="https://github.com/mardiana36/tracoid.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mardiana36&repo=tracoid.github.io&theme=radical&bg_color=0d1117&title_color=00C4FF" />
   </a>
 </div>
