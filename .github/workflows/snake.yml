@@ -2,26 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Menjalankan setiap hari jam 00:00 UTC
-  workflow_dispatch:      # Memungkinkan menjalankan manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: mardiana36  # Ganti dengan username Anda
-          svg_out_path: assets/github-contribution-grid-snake.svg
-          theme: dark  # Pilih tema: dark, dark-dimmed, light
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+          github_user_name: mardiana36
+          outputs: dist/github-snake.svg
+          
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.2
         with:
-          branch: main
-          message: 'Update snake animation'
-          add: assets/github-contribution-grid-snake.svg
+          publish-dir: './dist'
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          netlify-site-id: ${{ secrets.NETLIFY_SITE_ID }}
