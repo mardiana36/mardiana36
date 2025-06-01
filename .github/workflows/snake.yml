@@ -1,25 +1,16 @@
 name: Generate Snake
-
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Update setiap hari
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: mardiana36
-          outputs: dist/github-snake.svg
-          
-      - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v1.2
-        with:
-          publish-dir: './dist'
-          production-branch: main
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          netlify-site-id: ${{ secrets.NETLIFY_SITE_ID }}
+          svg_out_path: assets/github-snake.svg
+          theme: dark
