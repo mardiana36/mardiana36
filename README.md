@@ -67,12 +67,6 @@
 
 Hi! This is a cool animation showing my contribution activity, generated daily using GitHub Actions!
 
-### 🔮 Cosmic Snake
-![Cosmic Snake](https://mardiana36.github.io/mardiana36/cosmic-snake.svg)
-
-### ⚡ Neon Snake
-![Neon Snake](https://mardiana36.github.io/mardiana36/neon-snake.gif)
-
 ### 🌑 Glow Snake Dark
 ![Glow Snake Dark](https://mardiana36.github.io/mardiana36/glow-snake-dark.svg)
 
