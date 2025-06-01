@@ -3,7 +3,7 @@
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Coding+With+Coffee;Debugging+Like+a+Pro;Bugs+Are+Just+Features;Pushing+Code+Not+Panic" alt="Typing animation" />
-
+  img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="image_codeing"/>
 </div>
 
 ## 🚀 Tech Stack & Skills
