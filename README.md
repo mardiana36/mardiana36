@@ -63,15 +63,15 @@
   <img src="https://profile-counter.glitch.me/mardiana36/count.svg" />
 </div>
   
-## 🐍 My Contribution Snake
+## 🪐 My Cosmic Contribution Map
 
-<themed-picture data-catalyst-inline="true" data-catalyst="">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="visibility:visible;max-width:100%;">
-  </picture>
-</themed-picture>
+<div align="center">
+
+[![Cosmic Snake](https://mardiana36.github.io/dist/cosmic-snake.svg)](https://github.com/mardiana36)
+[![Neon Snake](https://mardiana36.github.io/dist/neon-snake.gif)](https://github.com/mardiana36)
+[![Glow Snake](https://mardiana36.github.io/dist/glow-snake-dark.svg)](https://github.com/mardiana36)
+
+</div>
 
 ## 🎵 Now Playing on Spotify
 <div align="center">
