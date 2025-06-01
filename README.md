@@ -65,9 +65,11 @@
   
 ## 🐍 My Contribution Snake
 
-[![Standard Snake](https://mardiana36.github.io/mardiana36/dist/snake-standard.svg)](https://github.com/mardiana36/mardiana36)
-[![Dark Snake](https://mardiana36.github.io/mardiana36/dist/snake-dark.svg)](https://github.com/mardiana36/mardiana36)
-[![Animated Snake](https://mardiana36.github.io/mardiana36/dist/snake-animated.gif)](https://github.com/mardiana36/mardiana36)
+<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="visibility:visible;max-width:100%;">
+</picture></themed-picture>
 
 ## 🎵 Now Playing on Spotify
 <div align="center">
