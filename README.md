@@ -63,15 +63,21 @@
   <img src="https://profile-counter.glitch.me/mardiana36/count.svg" />
 </div>
   
-## 🪐 My Cosmic Contribution Map
+# 🐍 Cosmic Snake Activity
 
-<div align="center">
+Hi! This is a cool animation showing my contribution activity, generated daily using GitHub Actions!
 
-[![Cosmic Snake](https://mardiana36.github.io/dist/cosmic-snake.svg)](https://github.com/mardiana36)
-[![Neon Snake](https://mardiana36.github.io/dist/neon-snake.gif)](https://github.com/mardiana36)
-[![Glow Snake](https://mardiana36.github.io/dist/glow-snake-dark.svg)](https://github.com/mardiana36)
+### 🔮 Cosmic Snake
+![Cosmic Snake](https://mardiana36.github.io/mardiana36/cosmic-snake.svg)
 
-</div>
+### ⚡ Neon Snake
+![Neon Snake](https://mardiana36.github.io/mardiana36/neon-snake.gif)
+
+### 🌑 Glow Snake Dark
+![Glow Snake Dark](https://mardiana36.github.io/mardiana36/glow-snake-dark.svg)
+
+> Made with ❤️ by [Platane/snk](https://github.com/Platane/snk)
+
 
 ## 🎵 Now Playing on Spotify
 <div align="center">
