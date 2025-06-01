@@ -16,7 +16,7 @@ jobs:
       - name: "🌀 Generate Premium Snakes"
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: mardiana36
           outputs: |
             dist/cosmic-snake.svg?theme=radical&color_snake=00DDFF&color_dots=FF00AA,00FFDD,AA00FF
             dist/neon-snake.gif?animation=wave&color_snake=00FF88&color_dots=FF0099&background=0D1117
