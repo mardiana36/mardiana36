@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Menjalankan setiap hari jam 00:00 UTC
+  workflow_dispatch:      # Memungkinkan menjalankan manual
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: mardiana36  # Ganti dengan username Anda
+          svg_out_path: assets/github-contribution-grid-snake.svg
+          theme: dark  # Pilih tema: dark, dark-dimmed, light
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: 'Update snake animation'
+          add: assets/github-contribution-grid-snake.svg
