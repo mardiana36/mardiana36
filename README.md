@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Mardiana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%2B%2B+Enthusiast;Java+Lover;PHP+Expert" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Coding+with+zero+bugs(Almost);Coffee+is+my+best+friend;Oops,+found+a+bug!;Ship+it+like+a+boss" alt="Typing animation" />
 </div>
 
 ## 🚀 Tech Stack & Skills
