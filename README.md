@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Coding+With+Coffee;Debugging+Like+a+Pro;Bugs+Are+Just+Features;Pushing+Code+Not+Panic" alt="Typing animation" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="image_codeing"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="image_codeing"/>
 </div>
 
 <br><br>
