@@ -9,21 +9,11 @@
 <br><br>
 
 <h2 align="center">🚀 Tech Stack & Skills</h2>
+<div align="center">
 
-  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.gif" height="50" alt="Java" title="Java"/> :contentReference[oaicite:0]{index=0}
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif" height="50" alt="C++" title="C++"/> :contentReference[oaicite:1]{index=1}
-<img src="https://img.icons8.com/color/48/000000/php-logo.gif" height="50" alt="PHP" title="PHP"/> :contentReference[oaicite:2]{index=2}
-<img src="https://img.icons8.com/color/48/000000/javascript-logo.gif" height="50" alt="JavaScript" title="JavaScript"/> :contentReference[oaicite:3]{index=3}
-<img src="https://img.icons8.com/color/48/000000/react-native-logo.gif" height="50" alt="React" title="React"/> :contentReference[oaicite:4]{index=4}
-<img src="https://img.icons8.com/color/48/000000/python-logo.gif" height="50" alt="Python" title="Python"/> :contentReference[oaicite:5]{index=5}
-<img src="https://img.icons8.com/color/48/000000/nodejs.gif" height="50" alt="Node.js" title="Node.js"/> :contentReference[oaicite:6]{index=6}
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.gif" height="50" alt="MySQL" title="MySQL"/> :contentReference[oaicite:7]{index=7}
-<img src="https://img.icons8.com/color/48/000000/docker.gif" height="50" alt="Docker" title="Docker"/> :contentReference[oaicite:8]{index=8}
-<img src="https://img.icons8.com/color/48/000000/figma--v1.gif" height="50" alt="Figma" title="Figma"/> :contentReference[oaicite:9]{index=9}
-<img src="https://img.icons8.com/color/48/000000/wordpress.gif" height="50" alt="WordPress" title="WordPress"/> :contentReference[oaicite:10]{index=10}
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </div>
 
-
+</div>
 <br><br>
 
 <h2 align="center">📊 GitHub Analytics</h2>
