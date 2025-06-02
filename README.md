@@ -11,17 +11,17 @@
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 <div align="center">
   
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.gif)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif)
-![PHP](https://img.icons8.com/color/48/000000/php-logo.gif)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript-logo.gif)
-![React](https://img.icons8.com/color/48/000000/react-native-logo.gif)
-![Python](https://img.icons8.com/color/48/000000/python-logo.gif)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.gif)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.gif)
-![Docker](https://img.icons8.com/color/48/000000/docker.gif)
-![Figma](https://img.icons8.com/color/48/000000/figma--v1.gif)
-![WordPress](https://img.icons8.com/color/48/000000/wordpress.gif)
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.gif" height="50" alt="Java" title="Java"/> :contentReference[oaicite:0]{index=0}
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif" height="50" alt="C++" title="C++"/> :contentReference[oaicite:1]{index=1}
+<img src="https://img.icons8.com/color/48/000000/php-logo.gif" height="50" alt="PHP" title="PHP"/> :contentReference[oaicite:2]{index=2}
+<img src="https://img.icons8.com/color/48/000000/javascript-logo.gif" height="50" alt="JavaScript" title="JavaScript"/> :contentReference[oaicite:3]{index=3}
+<img src="https://img.icons8.com/color/48/000000/react-native-logo.gif" height="50" alt="React" title="React"/> :contentReference[oaicite:4]{index=4}
+<img src="https://img.icons8.com/color/48/000000/python-logo.gif" height="50" alt="Python" title="Python"/> :contentReference[oaicite:5]{index=5}
+<img src="https://img.icons8.com/color/48/000000/nodejs.gif" height="50" alt="Node.js" title="Node.js"/> :contentReference[oaicite:6]{index=6}
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.gif" height="50" alt="MySQL" title="MySQL"/> :contentReference[oaicite:7]{index=7}
+<img src="https://img.icons8.com/color/48/000000/docker.gif" height="50" alt="Docker" title="Docker"/> :contentReference[oaicite:8]{index=8}
+<img src="https://img.icons8.com/color/48/000000/figma--v1.gif" height="50" alt="Figma" title="Figma"/> :contentReference[oaicite:9]{index=9}
+<img src="https://img.icons8.com/color/48/000000/wordpress.gif" height="50" alt="WordPress" title="WordPress"/> :contentReference[oaicite:10]{index=10}
 
 </div>
 
