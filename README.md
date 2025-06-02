@@ -10,17 +10,17 @@
 
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 <div align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50" alt="Java" title="Java"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="50" alt="C++" title="C++"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" height="50" alt="PHP" title="PHP"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" height="50" alt="React" title="React"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50" alt="Python" title="Python"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="50" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="50" alt="Docker" title="Docker"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="50" alt="Figma" title="Figma"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="50" alt="WordPress" title="WordPress"/>
 </div>
 
 <br><br>
