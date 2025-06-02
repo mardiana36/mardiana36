@@ -9,7 +9,7 @@
 <br><br>
 
 <h2 align="center">🚀 Tech Stack & Skills</h2>
-<div align="center">
+
   
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.gif" height="50" alt="Java" title="Java"/> :contentReference[oaicite:0]{index=0}
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif" height="50" alt="C++" title="C++"/> :contentReference[oaicite:1]{index=1}
@@ -23,7 +23,6 @@
 <img src="https://img.icons8.com/color/48/000000/figma--v1.gif" height="50" alt="Figma" title="Figma"/> :contentReference[oaicite:9]{index=9}
 <img src="https://img.icons8.com/color/48/000000/wordpress.gif" height="50" alt="WordPress" title="WordPress"/> :contentReference[oaicite:10]{index=10}
 
-</div>
 
 <br><br>
 
