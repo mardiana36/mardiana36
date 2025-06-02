@@ -10,17 +10,19 @@
 
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50" alt="Java" title="Java"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="50" alt="C++" title="C++"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" height="50" alt="PHP" title="PHP"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" height="50" alt="React" title="React"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50" alt="Python" title="Python"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="50" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="50" alt="Docker" title="Docker"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="50" alt="Figma" title="Figma"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="50" alt="WordPress" title="WordPress"/>
+  
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.gif)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif)
+![PHP](https://img.icons8.com/color/48/000000/php-logo.gif)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript-logo.gif)
+![React](https://img.icons8.com/color/48/000000/react-native-logo.gif)
+![Python](https://img.icons8.com/color/48/000000/python-logo.gif)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.gif)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.gif)
+![Docker](https://img.icons8.com/color/48/000000/docker.gif)
+![Figma](https://img.icons8.com/color/48/000000/figma--v1.gif)
+![WordPress](https://img.icons8.com/color/48/000000/wordpress.gif)
+
 </div>
 
 <br><br>
