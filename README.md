@@ -70,8 +70,9 @@
 
 <h2 align="center">✨ Visitor Counter</h2>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmardiana36&count_bg=%2379C83D&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Visitor&edge_flat=false"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mardiana36" alt="visitor badge"/>
 </p>
+
 
   
 <div align="center">
