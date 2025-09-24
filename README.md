@@ -32,7 +32,7 @@
 
 <div align="center">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=mardiana36)](https://git.io/streak-stats)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=mardiana36&cache_seconds=86400)
     
 </div>
 
