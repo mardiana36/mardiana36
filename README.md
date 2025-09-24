@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mardiana36&theme=dark&background=0d1117&border=00C4FF&stroke=00C4FF&ring=00C4FF&fire=FF79C6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C4FF&sideLabels=00C4FF&dates=8A8A8A)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mardiana36)](https://git.io/streak-stats)
     
 </div>
 
